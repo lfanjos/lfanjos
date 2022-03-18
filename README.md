@@ -10,8 +10,8 @@ Em constante aprendizado sempre busco aumentar minha performance como um bom des
 class Lfanjos:
     nome = "Lucas Anjos"
     sobre_mim = "Estudante de engenharia de dados e amante da linguagem " \
-                "Python. Já trabalhei como Desenvolvedor Web Freelancer e" \
-                "em meus projetos utilizava em sua maioria PHP juntamente" \
+                "Python. Já trabalhei como Desenvolvedor Web Freelancer e " \
+                "em meus projetos utiliza em sua maioria PHP juntamente " \
                 "com seu framework Laravel e MySQL. Atualmente aprimoro " \
                 "meus conhecimentos em engenharia de dados e Python."
 
@@ -19,7 +19,9 @@ class Lfanjos:
                 "bastante a sempre criar projetos melhores e mais " \
                 "completos. Criatividade para a solução de problemas " \
                 "casuais e profissionais é um ponto forte que me define."
-    linguagens = ["Python", "PHP", "JavaScript"]
+    linguagens = ["Python", "PHP", "JavaScript", "HTML", "CSS"]
+
+    fun_fact = "Crio artes digitais no meu tempo livre :)"
 ```
 
 ## **Linguagens e Ferramentas:**  
