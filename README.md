@@ -50,7 +50,7 @@ class Lfanjos:
 </a>
 
 [instagram]: https://www.instagram.com/abstractourism/
-[linkedin]: https://www.linkedin.com/in/lfanjos/
+[linkedin]: https://www.linkedin.com/in/lucas-felipe-/
 <br>
 
 #### Rede Sociais!
