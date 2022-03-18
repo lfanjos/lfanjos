@@ -12,11 +12,12 @@ class Lfanjos:
     sobre_mim = "Estudante de engenharia de dados e amante da linguagem Python. " \
                 "Já trabalhei como Desenvolvedor Web Freelancer e em meus projetos " \
                 "utiliza em sua maioria PHP juntamente com seu framework Laravel e " \
-                "MySQL. Atualmente aprimoro meus conhecimentos em engenharia de dados e Python."
+                "MySQL. Atualmente aprimoro meus conhecimentos em engenharia de dados e " \
+                "Python."
 
-    skill_set = "Aprendo qualquer coisa muito rápido, o que me ajuda bastante a sempre criar " \
-                "projetos melhores e mais completos. Criatividade para a solução de problemas " \
-                "casuais e profissionais é um ponto forte que me define."
+    skill_set = "Aprendo qualquer coisa muito rápido, o que me ajuda bastante a sempre " \
+                "criar projetos melhores e mais completos. Criatividade para a solução " \
+                "de problemas casuais e profissionais é um ponto forte que me define."
     linguagens = ["Python", "PHP", "JavaScript"]
 
     fun_fact = "Crio artes digitais no meu tempo livre :)"
