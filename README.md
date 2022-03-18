@@ -40,7 +40,7 @@ class Lfanjos:
 </a>
 
 <a href="https://github.com/lfanjos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="Lucas Anjos github stats"/>
 </a>
 
 [instagram]: https://www.instagram.com/abstractourism/
